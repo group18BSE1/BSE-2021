@@ -7,8 +7,18 @@ def waterbilling():
             # INPUT SECTION
             code = input("Enter customers code: ").lower()
             if code == "c" or code == "r" or code == "i":
-                begin = int(input("Enter beginning meter reading: "))
-                end = int(input("Enter ending meter reading: "))
+                while True:
+                    begin = int(input("Enter beginning meter reading: "))
+                    if begin < 0:
+                        print('Please enter positive value')
+                    else:
+                        break
+                while True:
+                    end = int(input('Enter ending meter reading'))
+                    if end < 0:
+                        print('Please enter positive value')
+                    else:
+                        break
                 if end > begin:
                     gallons_of_water_used = (end - begin) / 10
                 else:
