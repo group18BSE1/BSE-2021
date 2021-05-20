@@ -1,0 +1,192 @@
+Afghanistan                                        WB_LI   35 Eastern Mediterranean     2002
+Albania                                            WB_LMI  96 Europe                    2002
+Algeria                                            WB_UMI  81 Africa                    2002
+Andorra                                            WB_HI   98 Europe                    2002
+Angola                                             WB_LMI  74 Africa                    2002
+Antigua and Barbuda                                WB_HI   99 Americas                  2002
+Argentina                                          WB_UMI  95 Americas                  2002
+Armenia                                            WB_LMI  91 Europe                    2002
+Australia                                          WB_HI   93 Western Pacific           2002
+Austria                                            WB_HI   78 Europe                    2002
+Azerbaijan                                         WB_LMI  66 Europe                    2002
+Bahamas                                            WB_HI   94 Americas                  2002
+Bahrain                                            WB_HI   99 Eastern Mediterranean     2002
+Bangladesh                                         WB_LI   65 South-East Asia           2002
+Barbados                                           WB_HI   91 Americas                  2002
+Belarus                                            WB_UMI  99 Europe                    2002
+Belgium                                            WB_HI   82 Europe                    2002
+Belize                                             WB_LMI  88 Americas                  2002
+Benin                                              WB_LI   66 Africa                    2002
+Bhutan                                             WB_LMI  78 South-East Asia           2002
+Bolivia (Plurinational State of)                   WB_LMI  91 Americas                  2002
+Bosnia and Herzegovina                             WB_UMI  89 Europe                    2002
+Botswana                                           WB_UMI  92 Africa                    2002
+Brazil                                             WB_UMI  96 Americas                  2002
+Brunei Darussalam                                  WB_HI   99 Western Pacific           2002
+Bulgaria                                           WB_UMI  92 Europe                    2002
+Burkina Faso                                       WB_LI   64 Africa                    2002
+Burundi                                            WB_LI   75 Africa                    2002
+Cabo Verde                                         WB_LMI  89 Africa                    2002
+Cambodia                                           WB_LI   52 Western Pacific           2002
+Cameroon                                           WB_LMI  53 Africa                    2002
+Canada                                             WB_HI   95 Americas                  2002
+Central African Republic                           WB_LI   42 Africa                    2002
+Chad                                               WB_LI   25 Africa                    2002
+Chile                                              WB_UMI  95 Americas                  2002
+China                                              WB_LMI  85 Western Pacific           2002
+Colombia                                           WB_UMI  93 Americas                  2002
+Comoros                                            WB_LI   71 Africa                    2002
+Congo                                              WB_LMI  37 Africa                    2002
+Cook Islands                                       WB_HI   95 Western Pacific           2002
+Costa Rica                                         WB_UMI  94 Americas                  2002
+Cote d'Ivoire                                      WB_LMI  71 Africa                    2002
+Croatia                                            WB_HI   95 Europe                    2002
+Cuba                                               WB_UMI  98 Americas                  2002
+Cyprus                                             WB_HI   86 Europe                    2002
+Czech Republic                                     WB_HI   99 Europe                    2002
+Democratic People's Republic of Korea              WB_LI   98 South-East Asia           2002
+Democratic Republic of the Congo                   WB_LI   42 Africa                    2002
+Denmark                                            WB_HI   95 Europe                    2002
+Djibouti                                           WB_LMI  62 Eastern Mediterranean     2002
+Dominica                                           WB_UMI  99 Americas                  2002
+Dominican Republic                                 WB_UMI  86 Americas                  2002
+Ecuador                                            WB_LMI  99 Americas                  2002
+Egypt                                              WB_LMI  97 Eastern Mediterranean     2002
+El Salvador                                        WB_LMI  93 Americas                  2002
+Equatorial Guinea                                  WB_HI   51 Africa                    2002
+Eritrea                                            WB_LI   83 Africa                    2002
+Estonia                                            WB_HI   95 Europe                    2002
+Ethiopia                                           WB_LI   30 Africa                    2002
+Fiji                                               WB_UMI  85 Western Pacific           2002
+Finland                                            WB_HI   96 Europe                    2002
+France                                             WB_HI   86 Europe                    2002
+Gabon                                              WB_UMI  55 Africa                    2002
+Gambia                                             WB_LI   90 Africa                    2002
+Georgia                                            WB_LMI  78 Europe                    2002
+Germany                                            WB_HI   94 Europe                    2002
+Ghana                                              WB_LI   78 Africa                    2002
+Greece                                             WB_HI   92 Europe                    2002
+Grenada                                            WB_UMI  96 Americas                  2002
+Guatemala                                          WB_LMI  92 Americas                  2002
+Guinea                                             WB_LI   46 Africa                    2002
+Guinea-Bissau                                      WB_LI   73 Africa                    2002
+Guyana                                             WB_LMI  93 Americas                  2002
+Haiti                                              WB_LI   56 Americas                  2002
+Honduras                                           WB_LMI  97 Americas                  2002
+Hungary                                            WB_HI   99 Europe                    2002
+Iceland                                            WB_HI   91 Europe                    2002
+India                                              WB_LMI  56 South-East Asia           2002
+Indonesia                                          WB_LMI  72 South-East Asia           2002
+Iran (Islamic Republic of)                         WB_LMI  99 Eastern Mediterranean     2002
+Iraq                                               WB_LMI  77 Eastern Mediterranean     2002
+Ireland                                            WB_HI   73 Europe                    2002
+Israel                                             WB_HI   98 Europe                    2002
+Italy                                              WB_HI   81 Europe                    2002
+Jamaica                                            WB_UMI  86 Americas                  2002
+Japan                                              WB_HI   98 Western Pacific           2002
+Jordan                                             WB_LMI  95 Eastern Mediterranean     2002
+Kazakhstan                                         WB_UMI  95 Europe                    2002
+Kenya                                              WB_LI   78 Africa                    2002
+Kiribati                                           WB_LMI  88 Western Pacific           2002
+Kuwait                                             WB_HI   97 Eastern Mediterranean     2002
+Kyrgyzstan                                         WB_LI   98 Europe                    2002
+Lao People's Democratic Republic                   WB_LI   55 Western Pacific           2002
+Latvia                                             WB_UMI  98 Europe                    2002
+Lebanon                                            WB_UMI  59 Eastern Mediterranean     2002
+Lesotho                                            WB_LMI  78 Africa                    2002
+Liberia                                            WB_LI   52 Africa                    2002
+Libya                                              WB_UMI  91 Eastern Mediterranean     2002
+Lithuania                                          WB_UMI  98 Europe                    2002
+Luxembourg                                         WB_HI   91 Europe                    2002
+Madagascar                                         WB_LI   61 Africa                    2002
+Malawi                                             WB_LI   69 Africa                    2002
+Malaysia                                           WB_UMI  92 Western Pacific           2002
+Maldives                                           WB_LMI  97 South-East Asia           2002
+Mali                                               WB_LI   56 Africa                    2002
+Malta                                              WB_HI   65 Europe                    2002
+Marshall Islands                                   WB_LMI  80 Western Pacific           2002
+Mauritania                                         WB_LI   87 Africa                    2002
+Mauritius                                          WB_UMI  84 Africa                    2002
+Mexico                                             WB_UMI  96 Americas                  2002
+Micronesia (Federated States of)                   WB_LMI  88 Western Pacific           2002
+Monaco                                             WB_HI   99 Europe                    2002
+Mongolia                                           WB_LMI  98 Western Pacific           2002
+Morocco                                            WB_LMI  94 Eastern Mediterranean     2002
+Mozambique                                         WB_LI   77 Africa                    2002
+Myanmar                                            WB_LI   77 South-East Asia           2002
+Namibia                                            WB_UMI  68 Africa                    2002
+Nauru                                              WB_HI   40 Western Pacific           2002
+Nepal                                              WB_LI   71 South-East Asia           2002
+Netherlands                                        WB_HI   95 Europe                    2002
+New Zealand                                        WB_HI   84 Western Pacific           2002
+Nicaragua                                          WB_LMI  98 Americas                  2002
+Niger                                              WB_LI   41 Africa                    2002
+Nigeria                                            WB_LMI  30 Africa                    2002
+Niue                                               WB_LI   99 Western Pacific           2002
+Norway                                             WB_HI   87 Europe                    2002
+Oman                                               WB_HI   99 Eastern Mediterranean     2002
+Pakistan                                           WB_LMI  63 Eastern Mediterranean     2002
+Palau                                              WB_UMI  99 Western Pacific           2002
+Panama                                             WB_UMI  95 Americas                  2002
+Papua New Guinea                                   WB_LMI  61 Western Pacific           2002
+Paraguay                                           WB_LMI  86 Americas                  2002
+Peru                                               WB_UMI  95 Americas                  2002
+Philippines                                        WB_LMI  82 Western Pacific           2002
+Poland                                             WB_UMI  98 Europe                    2002
+Portugal                                           WB_HI   93 Europe                    2002
+Qatar                                              WB_HI   99 Eastern Mediterranean     2002
+Republic of Korea                                  WB_HI   97 Western Pacific           2002
+Republic of Moldova                                WB_LMI  94 Europe                    2002
+Romania                                            WB_UMI  98 Europe                    2002
+Russian Federation                                 WB_UMI  98 Europe                    2002
+Rwanda                                             WB_LI   69 Africa                    2002
+Saint Kitts and Nevis                              WB_UMI  99 Americas                  2002
+Saint Lucia                                        WB_UMI  98 Americas                  2002
+Saint Vincent and the Grenadines                   WB_UMI  99 Americas                  2002
+Samoa                                              WB_LMI  99 Western Pacific           2002
+San Marino                                         WB_HI   85 Europe                    2002
+Sao Tome and Principe                              WB_LMI  85 Africa                    2002
+Saudi Arabia                                       WB_HI   97 Eastern Mediterranean     2002
+Senegal                                            WB_LI   54 Africa                    2002
+Serbia                                             WB_UMI  92 Europe                    2002
+Seychelles                                         WB_UMI  98 Africa                    2002
+Sierra Leone                                       WB_LI   62 Africa                    2002
+Singapore                                          WB_HI   94 Western Pacific           2002
+Slovakia                                           WB_HI   99 Europe                    2002
+Slovenia                                           WB_HI   93 Europe                    2002
+Solomon Islands                                    WB_LMI  67 Western Pacific           2002
+Somalia                                            WB_LI   45 Eastern Mediterranean     2002
+South Africa                                       WB_UMI  65 Africa                    2002
+Spain                                              WB_HI   97 Europe                    2002
+Sri Lanka                                          WB_LMI  99 South-East Asia           2002
+Sudan                                              WB_LMI  58 Eastern Mediterranean     2002
+Suriname                                           WB_UMI  73 Americas                  2002
+Swaziland                                          WB_LMI  93 Africa                    2002
+Sweden                                             WB_HI   95 Europe                    2002
+Switzerland                                        WB_HI   82 Europe                    2002
+Syrian Arab Republic                               WB_LMI  84 Eastern Mediterranean     2002
+Tajikistan                                         WB_LI   89 Europe                    2002
+Thailand                                           WB_LMI  94 South-East Asia           2002
+The former Yugoslav Republic of Macedonia          WB_UMI  98 Europe                    2002
+Timor-Leste                                        WB_LMI  56 South-East Asia           2002
+Togo                                               WB_LI   48 Africa                    2002
+Tonga                                              WB_LMI  90 Western Pacific           2002
+Trinidad and Tobago                                WB_HI   87 Americas                  2002
+Tunisia                                            WB_LMI  94 Eastern Mediterranean     2002
+Turkey                                             WB_UMI  83 Europe                    2002
+Turkmenistan                                       WB_LMI  88 Europe                    2002
+Tuvalu                                             WB_UMI  99 Western Pacific           2002
+Uganda                                             WB_LI   62 Africa                    2002
+Ukraine                                            WB_LMI  99 Europe                    2002
+United Arab Emirates                               WB_HI   94 Eastern Mediterranean     2002
+United Kingdom                                     WB_HI   85 Europe                    2002
+United Republic of Tanzania                        WB_LI   89 Africa                    2002
+United States of America                           WB_HI   91 Americas                  2002
+Uruguay                                            WB_UMI  95 Americas                  2002
+Uzbekistan                                         WB_LI   97 Europe                    2002
+Vanuatu                                            WB_LMI  58 Western Pacific           2002
+Venezuela (Bolivarian Republic of)                 WB_UMI  83 Americas                  2002
+Viet Nam                                           WB_LI   96 Western Pacific           2002
+Yemen                                              WB_LI   64 Eastern Mediterranean     2002
+Zambia                                             WB_LI   84 Africa                    2002
+Zimbabwe                                           WB_LI   70 Africa                    2002

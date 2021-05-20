@@ -1,6 +1,204 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52249103-50b8-45eb-aa3c-9666acb15068" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Project02/mbox-short.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02/mbox.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02/measles.short.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02/measles.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project02/project02_a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter8/exercise1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter8/exercise2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter8/exercise3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter8/exercise4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter8/exercise5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter8/exercise6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter8/mbox-short.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter8/mbox.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter8/romeo.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 2/execise7.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 2/execise7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/exercise1.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/exercise1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/exercise3.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/exercise3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/exercise4.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/exercise4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/exercise5.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/exercise5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter7/exercise1.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/exercise1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter7/exercise2.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/exercise2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter7/exercise3.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/exercise3.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1s0JWZBy38YwabBwDoPgEMEW9p1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Project02" />
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\USER\Desktop\BSE_Programming18\BSE-2021\BSE-2021\src\Project02" />
+      <recent name="D:\Users\USER\Desktop\BSE_Programming18\BSE-2021\BSE-2021\src\chapter8" />
+      <recent name="D:\Users\USER\Desktop\BSE_Programming18\BSE-2021\BSE-2021\src\chapter7" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.project02_a">
+    <configuration name="exercise1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter8" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter8/exercise1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exercise2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter8" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter8/exercise2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exercise3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter8" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter8/exercise3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exercise4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter8" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter8/exercise4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="project02_a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Project02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Project02/project02_a.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.project02_a" />
+        <item itemvalue="Python.exercise1 (1)" />
+        <item itemvalue="Python.exercise4" />
+        <item itemvalue="Python.exercise3" />
+        <item itemvalue="Python.exercise2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52249103-50b8-45eb-aa3c-9666acb15068" name="Default Changelist" comment="" />
+      <created>1620003609166</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620003609166</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
